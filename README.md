@@ -17,4 +17,4 @@ NGram(paper_2020_list,2).showTitles('object detection')[:3]
 ```
  
 ## License
-MIT License
+whitepurple, MIT License
