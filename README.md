@@ -16,3 +16,5 @@ NGram(paper_2020_list,2).showTitles('object detection')[:3]
 ['EfficientDet: Scalable and Efficient Object Detection']
 ```
  
+## License
+whitepurple, MIT License
